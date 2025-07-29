@@ -1,8 +1,14 @@
 [general]
 name=Learn QGIS Free
 description=This plugin provides curated learning resources to help users learn QGIS through free online materials.
+about=Learn QGIS Free is a helpful tool for users seeking structured, free, and reliable online learning content for QGIS. It includes tutorials, video resources, and step-by-step guides curated for beginners and intermediate users.
 version=1.0
 qgisMinimumVersion=3.0
 author=Jamshed Ali
 email=jamsheedwolf@gmail.com
 icon=logo.png
+homepage=https://github.com/jamshedwolf/learn-qgis
+repository=https://github.com/jamshedwolf/learn-qgis.git
+tracker=https://github.com/jamshedwolf/learn-free-qgis-issues-/issues
+tags=learning,education,tutorials,qgis,training
+category=Education

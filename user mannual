@@ -1,0 +1,49 @@
+After Installation: How to Use the Plugin
+Launch QGIS and make sure the plugin is activated:
+
+Go to Plugins > Manage and Install Plugins
+
+Ensure Learn QGIS Free is checked and enabled
+
+Once enabled, a new toolbar labeled Learn QGIS Free appears at the top.
+
+🧰 Toolbar Components
+Level Selector (Dropdown):
+Choose a learning level:
+
+Beginner
+
+Advanced
+
+Documentation
+
+Link Selector (Dropdown):
+Shows all the learning resources available for the selected level.
+
+Open Link Button (Icon):
+Click this button (with the plugin logo) to open the selected resource in your default web browser.
+
+📝 Step-by-Step Instructions
+From the toolbar, select a Level from the dropdown (e.g., Beginner, Advanced, or Documentation).
+
+In the second dropdown, select a learning resource (e.g., "QGIS for Beginners", "QGIS Python API").
+
+Click the icon button (with the logo) to open the link.
+
+The selected link will open in your default web browser.
+
+🔁 Switching Categories
+You can switch between levels (like Beginner to Documentation) at any time. The second dropdown updates automatically with links for that level.
+
+📎 Included Resource Categories
+Level	Example Resources
+Beginner	QGIS for Beginners (YouTube playlist)
+Advanced	Advanced QGIS, Plugin Development Workshop
+Documentation	Official manuals, Python API, Developer Guide
+
+❌ How to Unload the Plugin
+To remove the toolbar:
+
+In QGIS, go to Plugins > Manage and Install Plugins
+
+Uncheck or uninstall Learn QGIS Free

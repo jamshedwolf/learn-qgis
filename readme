@@ -1,0 +1,31 @@
+# Learn QGIS Free
+
+**Learn QGIS Free** is a QGIS plugin that provides curated learning resources to help users learn QGIS through free online materials — tutorials, guides, and videos — all in one place.
+
+---
+
+## 🌟 Features
+
+- 🎓 Access beginner to intermediate tutorials  
+- 🎥 Discover video lectures and step-by-step learning guides  
+- 🔓 100% free — no paywalls or subscriptions  
+- 🧭 Lightweight, user-friendly interface designed for all QGIS users  
+
+---
+
+## 📦 Installation
+
+### Option 1: From ZIP File
+
+1. Download the plugin as a `.zip` file from the [GitHub repository](https://github.com/jamshedwolf/learn-qgis).
+2. Open **QGIS**.
+3. Go to: `Plugins > Manage and Install Plugins > Install from ZIP`.
+4. Browse to the downloaded ZIP file and click **Install Plugin**.
+5. Activate the plugin if it doesn’t activate automatically.
+
+### Option 2: Manual Install via Git
+
+1. Open your terminal or Git Bash.
+2. Clone the repository:
+   ```bash
+   git clone https://github.com/jamshedwolf/learn-qgis.git
